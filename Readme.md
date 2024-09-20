@@ -1,0 +1,1 @@
+Those are my academic project reports solely developed by me. I have also included github repository of each project in 'GithubRepository.pdf' file. 
